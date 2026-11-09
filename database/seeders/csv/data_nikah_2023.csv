@@ -1,0 +1,409 @@
+kode_wilayah,provinsi,tahun,bulan,jumlah_peristiwa,sumber_data
+11,Aceh,2023,Januari,3145,Kementerian Agama RI
+11,Aceh,2023,Februari,3202,Kementerian Agama RI
+11,Aceh,2023,Maret,2111,Kementerian Agama RI
+11,Aceh,2023,April,744,Kementerian Agama RI
+11,Aceh,2023,Mei,4695,Kementerian Agama RI
+11,Aceh,2023,Juni,2613,Kementerian Agama RI
+11,Aceh,2023,Juli,4647,Kementerian Agama RI
+11,Aceh,2023,Agustus,2785,Kementerian Agama RI
+11,Aceh,2023,September,2571,Kementerian Agama RI
+11,Aceh,2023,Oktober,2420,Kementerian Agama RI
+11,Aceh,2023,November,2446,Kementerian Agama RI
+11,Aceh,2023,Desember,2600,Kementerian Agama RI
+12,Sumatera Utara,2023,Januari,6496,Kementerian Agama RI
+12,Sumatera Utara,2023,Februari,6859,Kementerian Agama RI
+12,Sumatera Utara,2023,Maret,4938,Kementerian Agama RI
+12,Sumatera Utara,2023,April,2306,Kementerian Agama RI
+12,Sumatera Utara,2023,Mei,8758,Kementerian Agama RI
+12,Sumatera Utara,2023,Juni,6462,Kementerian Agama RI
+12,Sumatera Utara,2023,Juli,7819,Kementerian Agama RI
+12,Sumatera Utara,2023,Agustus,4930,Kementerian Agama RI
+12,Sumatera Utara,2023,September,5566,Kementerian Agama RI
+12,Sumatera Utara,2023,Oktober,5791,Kementerian Agama RI
+12,Sumatera Utara,2023,November,5289,Kementerian Agama RI
+12,Sumatera Utara,2023,Desember,5416,Kementerian Agama RI
+13,Sumatera Barat,2023,Januari,3192,Kementerian Agama RI
+13,Sumatera Barat,2023,Februari,3371,Kementerian Agama RI
+13,Sumatera Barat,2023,Maret,2794,Kementerian Agama RI
+13,Sumatera Barat,2023,April,1582,Kementerian Agama RI
+13,Sumatera Barat,2023,Mei,4380,Kementerian Agama RI
+13,Sumatera Barat,2023,Juni,2743,Kementerian Agama RI
+13,Sumatera Barat,2023,Juli,5442,Kementerian Agama RI
+13,Sumatera Barat,2023,Agustus,2941,Kementerian Agama RI
+13,Sumatera Barat,2023,September,2819,Kementerian Agama RI
+13,Sumatera Barat,2023,Oktober,2680,Kementerian Agama RI
+13,Sumatera Barat,2023,November,2584,Kementerian Agama RI
+13,Sumatera Barat,2023,Desember,3747,Kementerian Agama RI
+14,Riau,2023,Januari,3638,Kementerian Agama RI
+14,Riau,2023,Februari,4009,Kementerian Agama RI
+14,Riau,2023,Maret,2892,Kementerian Agama RI
+14,Riau,2023,April,971,Kementerian Agama RI
+14,Riau,2023,Mei,4098,Kementerian Agama RI
+14,Riau,2023,Juni,2782,Kementerian Agama RI
+14,Riau,2023,Juli,5507,Kementerian Agama RI
+14,Riau,2023,Agustus,2516,Kementerian Agama RI
+14,Riau,2023,September,3381,Kementerian Agama RI
+14,Riau,2023,Oktober,3509,Kementerian Agama RI
+14,Riau,2023,November,3154,Kementerian Agama RI
+14,Riau,2023,Desember,3753,Kementerian Agama RI
+15,Jambi,2023,Januari,2256,Kementerian Agama RI
+15,Jambi,2023,Februari,2230,Kementerian Agama RI
+15,Jambi,2023,Maret,1630,Kementerian Agama RI
+15,Jambi,2023,April,405,Kementerian Agama RI
+15,Jambi,2023,Mei,2277,Kementerian Agama RI
+15,Jambi,2023,Juni,1746,Kementerian Agama RI
+15,Jambi,2023,Juli,2897,Kementerian Agama RI
+15,Jambi,2023,Agustus,1482,Kementerian Agama RI
+15,Jambi,2023,September,1850,Kementerian Agama RI
+15,Jambi,2023,Oktober,2098,Kementerian Agama RI
+15,Jambi,2023,November,1944,Kementerian Agama RI
+15,Jambi,2023,Desember,2223,Kementerian Agama RI
+16,Sumatera Selatan,2023,Januari,4577,Kementerian Agama RI
+16,Sumatera Selatan,2023,Februari,4287,Kementerian Agama RI
+16,Sumatera Selatan,2023,Maret,3391,Kementerian Agama RI
+16,Sumatera Selatan,2023,April,1923,Kementerian Agama RI
+16,Sumatera Selatan,2023,Mei,5570,Kementerian Agama RI
+16,Sumatera Selatan,2023,Juni,2900,Kementerian Agama RI
+16,Sumatera Selatan,2023,Juli,6582,Kementerian Agama RI
+16,Sumatera Selatan,2023,Agustus,3961,Kementerian Agama RI
+16,Sumatera Selatan,2023,September,4480,Kementerian Agama RI
+16,Sumatera Selatan,2023,Oktober,4540,Kementerian Agama RI
+16,Sumatera Selatan,2023,November,4283,Kementerian Agama RI
+16,Sumatera Selatan,2023,Desember,4852,Kementerian Agama RI
+17,Bengkulu,2023,Januari,1141,Kementerian Agama RI
+17,Bengkulu,2023,Februari,1178,Kementerian Agama RI
+17,Bengkulu,2023,Maret,909,Kementerian Agama RI
+17,Bengkulu,2023,April,322,Kementerian Agama RI
+17,Bengkulu,2023,Mei,1566,Kementerian Agama RI
+17,Bengkulu,2023,Juni,910,Kementerian Agama RI
+17,Bengkulu,2023,Juli,1733,Kementerian Agama RI
+17,Bengkulu,2023,Agustus,1127,Kementerian Agama RI
+17,Bengkulu,2023,September,1158,Kementerian Agama RI
+17,Bengkulu,2023,Oktober,1252,Kementerian Agama RI
+17,Bengkulu,2023,November,1056,Kementerian Agama RI
+17,Bengkulu,2023,Desember,1186,Kementerian Agama RI
+18,Lampung,2023,Januari,4680,Kementerian Agama RI
+18,Lampung,2023,Februari,4341,Kementerian Agama RI
+18,Lampung,2023,Maret,3686,Kementerian Agama RI
+18,Lampung,2023,April,1582,Kementerian Agama RI
+18,Lampung,2023,Mei,5679,Kementerian Agama RI
+18,Lampung,2023,Juni,3733,Kementerian Agama RI
+18,Lampung,2023,Juli,7864,Kementerian Agama RI
+18,Lampung,2023,Agustus,3933,Kementerian Agama RI
+18,Lampung,2023,September,4709,Kementerian Agama RI
+18,Lampung,2023,Oktober,4674,Kementerian Agama RI
+18,Lampung,2023,November,4472,Kementerian Agama RI
+18,Lampung,2023,Desember,4825,Kementerian Agama RI
+19,Kep. Bangka Belitung,2023,Januari,705,Kementerian Agama RI
+19,Kep. Bangka Belitung,2023,Februari,827,Kementerian Agama RI
+19,Kep. Bangka Belitung,2023,Maret,676,Kementerian Agama RI
+19,Kep. Bangka Belitung,2023,April,232,Kementerian Agama RI
+19,Kep. Bangka Belitung,2023,Mei,928,Kementerian Agama RI
+19,Kep. Bangka Belitung,2023,Juni,471,Kementerian Agama RI
+19,Kep. Bangka Belitung,2023,Juli,1139,Kementerian Agama RI
+19,Kep. Bangka Belitung,2023,Agustus,642,Kementerian Agama RI
+19,Kep. Bangka Belitung,2023,September,712,Kementerian Agama RI
+19,Kep. Bangka Belitung,2023,Oktober,780,Kementerian Agama RI
+19,Kep. Bangka Belitung,2023,November,727,Kementerian Agama RI
+19,Kep. Bangka Belitung,2023,Desember,720,Kementerian Agama RI
+21,Kepulauan Riau,2023,Januari,886,Kementerian Agama RI
+21,Kepulauan Riau,2023,Februari,894,Kementerian Agama RI
+21,Kepulauan Riau,2023,Maret,1044,Kementerian Agama RI
+21,Kepulauan Riau,2023,April,360,Kementerian Agama RI
+21,Kepulauan Riau,2023,Mei,1244,Kementerian Agama RI
+21,Kepulauan Riau,2023,Juni,774,Kementerian Agama RI
+21,Kepulauan Riau,2023,Juli,1454,Kementerian Agama RI
+21,Kepulauan Riau,2023,Agustus,732,Kementerian Agama RI
+21,Kepulauan Riau,2023,September,981,Kementerian Agama RI
+21,Kepulauan Riau,2023,Oktober,908,Kementerian Agama RI
+21,Kepulauan Riau,2023,November,929,Kementerian Agama RI
+21,Kepulauan Riau,2023,Desember,1131,Kementerian Agama RI
+31,DKI Jakarta,2023,Januari,3457,Kementerian Agama RI
+31,DKI Jakarta,2023,Februari,3901,Kementerian Agama RI
+31,DKI Jakarta,2023,Maret,3833,Kementerian Agama RI
+31,DKI Jakarta,2023,April,537,Kementerian Agama RI
+31,DKI Jakarta,2023,Mei,4263,Kementerian Agama RI
+31,DKI Jakarta,2023,Juni,2750,Kementerian Agama RI
+31,DKI Jakarta,2023,Juli,6101,Kementerian Agama RI
+31,DKI Jakarta,2023,Agustus,2962,Kementerian Agama RI
+31,DKI Jakarta,2023,September,3524,Kementerian Agama RI
+31,DKI Jakarta,2023,Oktober,3806,Kementerian Agama RI
+31,DKI Jakarta,2023,November,3605,Kementerian Agama RI
+31,DKI Jakarta,2023,Desember,4624,Kementerian Agama RI
+32,Jawa Barat,2023,Januari,26027,Kementerian Agama RI
+32,Jawa Barat,2023,Februari,25923,Kementerian Agama RI
+32,Jawa Barat,2023,Maret,21261,Kementerian Agama RI
+32,Jawa Barat,2023,April,13546,Kementerian Agama RI
+32,Jawa Barat,2023,Mei,35127,Kementerian Agama RI
+32,Jawa Barat,2023,Juni,19591,Kementerian Agama RI
+32,Jawa Barat,2023,Juli,54216,Kementerian Agama RI
+32,Jawa Barat,2023,Agustus,19730,Kementerian Agama RI
+32,Jawa Barat,2023,September,17278,Kementerian Agama RI
+32,Jawa Barat,2023,Oktober,30230,Kementerian Agama RI
+32,Jawa Barat,2023,November,25313,Kementerian Agama RI
+32,Jawa Barat,2023,Desember,29873,Kementerian Agama RI
+33,Jawa Tengah,2023,Januari,20477,Kementerian Agama RI
+33,Jawa Tengah,2023,Februari,17622,Kementerian Agama RI
+33,Jawa Tengah,2023,Maret,19027,Kementerian Agama RI
+33,Jawa Tengah,2023,April,14367,Kementerian Agama RI
+33,Jawa Tengah,2023,Mei,30132,Kementerian Agama RI
+33,Jawa Tengah,2023,Juni,17920,Kementerian Agama RI
+33,Jawa Tengah,2023,Juli,37616,Kementerian Agama RI
+33,Jawa Tengah,2023,Agustus,11463,Kementerian Agama RI
+33,Jawa Tengah,2023,September,18034,Kementerian Agama RI
+33,Jawa Tengah,2023,Oktober,24033,Kementerian Agama RI
+33,Jawa Tengah,2023,November,22825,Kementerian Agama RI
+33,Jawa Tengah,2023,Desember,22738,Kementerian Agama RI
+34,DI Yogyakarta,2023,Januari,1511,Kementerian Agama RI
+34,DI Yogyakarta,2023,Februari,1705,Kementerian Agama RI
+34,DI Yogyakarta,2023,Maret,924,Kementerian Agama RI
+34,DI Yogyakarta,2023,April,537,Kementerian Agama RI
+34,DI Yogyakarta,2023,Mei,2308,Kementerian Agama RI
+34,DI Yogyakarta,2023,Juni,1530,Kementerian Agama RI
+34,DI Yogyakarta,2023,Juli,3031,Kementerian Agama RI
+34,DI Yogyakarta,2023,Agustus,1103,Kementerian Agama RI
+34,DI Yogyakarta,2023,September,1882,Kementerian Agama RI
+34,DI Yogyakarta,2023,Oktober,1962,Kementerian Agama RI
+34,DI Yogyakarta,2023,November,1569,Kementerian Agama RI
+34,DI Yogyakarta,2023,Desember,1900,Kementerian Agama RI
+35,Jawa Timur,2023,Januari,21458,Kementerian Agama RI
+35,Jawa Timur,2023,Februari,20808,Kementerian Agama RI
+35,Jawa Timur,2023,Maret,20782,Kementerian Agama RI
+35,Jawa Timur,2023,April,10206,Kementerian Agama RI
+35,Jawa Timur,2023,Mei,34472,Kementerian Agama RI
+35,Jawa Timur,2023,Juni,17629,Kementerian Agama RI
+35,Jawa Timur,2023,Juli,44502,Kementerian Agama RI
+35,Jawa Timur,2023,Agustus,12372,Kementerian Agama RI
+35,Jawa Timur,2023,September,16987,Kementerian Agama RI
+35,Jawa Timur,2023,Oktober,33258,Kementerian Agama RI
+35,Jawa Timur,2023,November,29651,Kementerian Agama RI
+35,Jawa Timur,2023,Desember,23069,Kementerian Agama RI
+36,Banten,2023,Januari,6122,Kementerian Agama RI
+36,Banten,2023,Februari,6028,Kementerian Agama RI
+36,Banten,2023,Maret,6899,Kementerian Agama RI
+36,Banten,2023,April,1838,Kementerian Agama RI
+36,Banten,2023,Mei,4971,Kementerian Agama RI
+36,Banten,2023,Juni,2614,Kementerian Agama RI
+36,Banten,2023,Juli,13953,Kementerian Agama RI
+36,Banten,2023,Agustus,4471,Kementerian Agama RI
+36,Banten,2023,September,3474,Kementerian Agama RI
+36,Banten,2023,Oktober,5676,Kementerian Agama RI
+36,Banten,2023,November,5864,Kementerian Agama RI
+36,Banten,2023,Desember,6773,Kementerian Agama RI
+51,Bali,2023,Januari,187,Kementerian Agama RI
+51,Bali,2023,Februari,264,Kementerian Agama RI
+51,Bali,2023,Maret,276,Kementerian Agama RI
+51,Bali,2023,April,90,Kementerian Agama RI
+51,Bali,2023,Mei,298,Kementerian Agama RI
+51,Bali,2023,Juni,266,Kementerian Agama RI
+51,Bali,2023,Juli,423,Kementerian Agama RI
+51,Bali,2023,Agustus,169,Kementerian Agama RI
+51,Bali,2023,September,224,Kementerian Agama RI
+51,Bali,2023,Oktober,289,Kementerian Agama RI
+51,Bali,2023,November,264,Kementerian Agama RI
+51,Bali,2023,Desember,306,Kementerian Agama RI
+52,Nusa Tenggara Barat,2023,Januari,2212,Kementerian Agama RI
+52,Nusa Tenggara Barat,2023,Februari,1021,Kementerian Agama RI
+52,Nusa Tenggara Barat,2023,Maret,1562,Kementerian Agama RI
+52,Nusa Tenggara Barat,2023,April,514,Kementerian Agama RI
+52,Nusa Tenggara Barat,2023,Mei,3912,Kementerian Agama RI
+52,Nusa Tenggara Barat,2023,Juni,2156,Kementerian Agama RI
+52,Nusa Tenggara Barat,2023,Juli,3780,Kementerian Agama RI
+52,Nusa Tenggara Barat,2023,Agustus,2576,Kementerian Agama RI
+52,Nusa Tenggara Barat,2023,September,2506,Kementerian Agama RI
+52,Nusa Tenggara Barat,2023,Oktober,2569,Kementerian Agama RI
+52,Nusa Tenggara Barat,2023,November,2331,Kementerian Agama RI
+52,Nusa Tenggara Barat,2023,Desember,1909,Kementerian Agama RI
+53,Nusa Tenggara Timur,2023,Januari,156,Kementerian Agama RI
+53,Nusa Tenggara Timur,2023,Februari,179,Kementerian Agama RI
+53,Nusa Tenggara Timur,2023,Maret,208,Kementerian Agama RI
+53,Nusa Tenggara Timur,2023,April,56,Kementerian Agama RI
+53,Nusa Tenggara Timur,2023,Mei,290,Kementerian Agama RI
+53,Nusa Tenggara Timur,2023,Juni,258,Kementerian Agama RI
+53,Nusa Tenggara Timur,2023,Juli,385,Kementerian Agama RI
+53,Nusa Tenggara Timur,2023,Agustus,261,Kementerian Agama RI
+53,Nusa Tenggara Timur,2023,September,300,Kementerian Agama RI
+53,Nusa Tenggara Timur,2023,Oktober,326,Kementerian Agama RI
+53,Nusa Tenggara Timur,2023,November,282,Kementerian Agama RI
+53,Nusa Tenggara Timur,2023,Desember,236,Kementerian Agama RI
+61,Kalimantan Barat,2023,Januari,1804,Kementerian Agama RI
+61,Kalimantan Barat,2023,Februari,1929,Kementerian Agama RI
+61,Kalimantan Barat,2023,Maret,1529,Kementerian Agama RI
+61,Kalimantan Barat,2023,April,1190,Kementerian Agama RI
+61,Kalimantan Barat,2023,Mei,1920,Kementerian Agama RI
+61,Kalimantan Barat,2023,Juni,1359,Kementerian Agama RI
+61,Kalimantan Barat,2023,Juli,3103,Kementerian Agama RI
+61,Kalimantan Barat,2023,Agustus,1436,Kementerian Agama RI
+61,Kalimantan Barat,2023,September,1617,Kementerian Agama RI
+61,Kalimantan Barat,2023,Oktober,1892,Kementerian Agama RI
+61,Kalimantan Barat,2023,November,1583,Kementerian Agama RI
+61,Kalimantan Barat,2023,Desember,1779,Kementerian Agama RI
+62,Kalimantan Tengah,2023,Januari,1156,Kementerian Agama RI
+62,Kalimantan Tengah,2023,Februari,1207,Kementerian Agama RI
+62,Kalimantan Tengah,2023,Maret,1213,Kementerian Agama RI
+62,Kalimantan Tengah,2023,April,584,Kementerian Agama RI
+62,Kalimantan Tengah,2023,Mei,1065,Kementerian Agama RI
+62,Kalimantan Tengah,2023,Juni,803,Kementerian Agama RI
+62,Kalimantan Tengah,2023,Juli,1982,Kementerian Agama RI
+62,Kalimantan Tengah,2023,Agustus,808,Kementerian Agama RI
+62,Kalimantan Tengah,2023,September,1199,Kementerian Agama RI
+62,Kalimantan Tengah,2023,Oktober,1273,Kementerian Agama RI
+62,Kalimantan Tengah,2023,November,1101,Kementerian Agama RI
+62,Kalimantan Tengah,2023,Desember,1211,Kementerian Agama RI
+63,Kalimantan Selatan,2023,Januari,2083,Kementerian Agama RI
+63,Kalimantan Selatan,2023,Februari,2347,Kementerian Agama RI
+63,Kalimantan Selatan,2023,Maret,2408,Kementerian Agama RI
+63,Kalimantan Selatan,2023,April,1329,Kementerian Agama RI
+63,Kalimantan Selatan,2023,Mei,1656,Kementerian Agama RI
+63,Kalimantan Selatan,2023,Juni,1381,Kementerian Agama RI
+63,Kalimantan Selatan,2023,Juli,3560,Kementerian Agama RI
+63,Kalimantan Selatan,2023,Agustus,1674,Kementerian Agama RI
+63,Kalimantan Selatan,2023,September,2123,Kementerian Agama RI
+63,Kalimantan Selatan,2023,Oktober,2441,Kementerian Agama RI
+63,Kalimantan Selatan,2023,November,2232,Kementerian Agama RI
+63,Kalimantan Selatan,2023,Desember,2324,Kementerian Agama RI
+64,Kalimantan Timur,2023,Januari,1856,Kementerian Agama RI
+64,Kalimantan Timur,2023,Februari,2180,Kementerian Agama RI
+64,Kalimantan Timur,2023,Maret,2002,Kementerian Agama RI
+64,Kalimantan Timur,2023,April,885,Kementerian Agama RI
+64,Kalimantan Timur,2023,Mei,2211,Kementerian Agama RI
+64,Kalimantan Timur,2023,Juni,1280,Kementerian Agama RI
+64,Kalimantan Timur,2023,Juli,3203,Kementerian Agama RI
+64,Kalimantan Timur,2023,Agustus,1280,Kementerian Agama RI
+64,Kalimantan Timur,2023,September,1825,Kementerian Agama RI
+64,Kalimantan Timur,2023,Oktober,1980,Kementerian Agama RI
+64,Kalimantan Timur,2023,November,1856,Kementerian Agama RI
+64,Kalimantan Timur,2023,Desember,2111,Kementerian Agama RI
+65,Kalimantan Utara,2023,Januari,256,Kementerian Agama RI
+65,Kalimantan Utara,2023,Februari,275,Kementerian Agama RI
+65,Kalimantan Utara,2023,Maret,270,Kementerian Agama RI
+65,Kalimantan Utara,2023,April,83,Kementerian Agama RI
+65,Kalimantan Utara,2023,Mei,387,Kementerian Agama RI
+65,Kalimantan Utara,2023,Juni,169,Kementerian Agama RI
+65,Kalimantan Utara,2023,Juli,451,Kementerian Agama RI
+65,Kalimantan Utara,2023,Agustus,220,Kementerian Agama RI
+65,Kalimantan Utara,2023,September,228,Kementerian Agama RI
+65,Kalimantan Utara,2023,Oktober,252,Kementerian Agama RI
+65,Kalimantan Utara,2023,November,247,Kementerian Agama RI
+65,Kalimantan Utara,2023,Desember,270,Kementerian Agama RI
+71,Sulawesi Utara,2023,Januari,519,Kementerian Agama RI
+71,Sulawesi Utara,2023,Februari,621,Kementerian Agama RI
+71,Sulawesi Utara,2023,Maret,712,Kementerian Agama RI
+71,Sulawesi Utara,2023,April,165,Kementerian Agama RI
+71,Sulawesi Utara,2023,Mei,380,Kementerian Agama RI
+71,Sulawesi Utara,2023,Juni,320,Kementerian Agama RI
+71,Sulawesi Utara,2023,Juli,660,Kementerian Agama RI
+71,Sulawesi Utara,2023,Agustus,549,Kementerian Agama RI
+71,Sulawesi Utara,2023,September,605,Kementerian Agama RI
+71,Sulawesi Utara,2023,Oktober,572,Kementerian Agama RI
+71,Sulawesi Utara,2023,November,594,Kementerian Agama RI
+71,Sulawesi Utara,2023,Desember,559,Kementerian Agama RI
+72,Sulawesi Tengah,2023,Januari,1349,Kementerian Agama RI
+72,Sulawesi Tengah,2023,Februari,1349,Kementerian Agama RI
+72,Sulawesi Tengah,2023,Maret,1231,Kementerian Agama RI
+72,Sulawesi Tengah,2023,April,351,Kementerian Agama RI
+72,Sulawesi Tengah,2023,Mei,1629,Kementerian Agama RI
+72,Sulawesi Tengah,2023,Juni,747,Kementerian Agama RI
+72,Sulawesi Tengah,2023,Juli,2085,Kementerian Agama RI
+72,Sulawesi Tengah,2023,Agustus,1101,Kementerian Agama RI
+72,Sulawesi Tengah,2023,September,1170,Kementerian Agama RI
+72,Sulawesi Tengah,2023,Oktober,1347,Kementerian Agama RI
+72,Sulawesi Tengah,2023,November,1285,Kementerian Agama RI
+72,Sulawesi Tengah,2023,Desember,1213,Kementerian Agama RI
+73,Sulawesi Selatan,2023,Januari,4284,Kementerian Agama RI
+73,Sulawesi Selatan,2023,Februari,3603,Kementerian Agama RI
+73,Sulawesi Selatan,2023,Maret,4544,Kementerian Agama RI
+73,Sulawesi Selatan,2023,April,1380,Kementerian Agama RI
+73,Sulawesi Selatan,2023,Mei,5907,Kementerian Agama RI
+73,Sulawesi Selatan,2023,Juni,1984,Kementerian Agama RI
+73,Sulawesi Selatan,2023,Juli,7918,Kementerian Agama RI
+73,Sulawesi Selatan,2023,Agustus,4003,Kementerian Agama RI
+73,Sulawesi Selatan,2023,September,5128,Kementerian Agama RI
+73,Sulawesi Selatan,2023,Oktober,4761,Kementerian Agama RI
+73,Sulawesi Selatan,2023,November,5266,Kementerian Agama RI
+73,Sulawesi Selatan,2023,Desember,4460,Kementerian Agama RI
+74,Sulawesi Tenggara,2023,Januari,1319,Kementerian Agama RI
+74,Sulawesi Tenggara,2023,Februari,1274,Kementerian Agama RI
+74,Sulawesi Tenggara,2023,Maret,1347,Kementerian Agama RI
+74,Sulawesi Tenggara,2023,April,441,Kementerian Agama RI
+74,Sulawesi Tenggara,2023,Mei,1979,Kementerian Agama RI
+74,Sulawesi Tenggara,2023,Juni,704,Kementerian Agama RI
+74,Sulawesi Tenggara,2023,Juli,1989,Kementerian Agama RI
+74,Sulawesi Tenggara,2023,Agustus,1075,Kementerian Agama RI
+74,Sulawesi Tenggara,2023,September,1276,Kementerian Agama RI
+74,Sulawesi Tenggara,2023,Oktober,1327,Kementerian Agama RI
+74,Sulawesi Tenggara,2023,November,1294,Kementerian Agama RI
+74,Sulawesi Tenggara,2023,Desember,1330,Kementerian Agama RI
+75,Gorontalo,2023,Januari,506,Kementerian Agama RI
+75,Gorontalo,2023,Februari,906,Kementerian Agama RI
+75,Gorontalo,2023,Maret,1208,Kementerian Agama RI
+75,Gorontalo,2023,April,101,Kementerian Agama RI
+75,Gorontalo,2023,Mei,780,Kementerian Agama RI
+75,Gorontalo,2023,Juni,587,Kementerian Agama RI
+75,Gorontalo,2023,Juli,1116,Kementerian Agama RI
+75,Gorontalo,2023,Agustus,707,Kementerian Agama RI
+75,Gorontalo,2023,September,1175,Kementerian Agama RI
+75,Gorontalo,2023,Oktober,430,Kementerian Agama RI
+75,Gorontalo,2023,November,534,Kementerian Agama RI
+75,Gorontalo,2023,Desember,540,Kementerian Agama RI
+76,Sulawesi Barat,2023,Januari,446,Kementerian Agama RI
+76,Sulawesi Barat,2023,Februari,653,Kementerian Agama RI
+76,Sulawesi Barat,2023,Maret,584,Kementerian Agama RI
+76,Sulawesi Barat,2023,April,121,Kementerian Agama RI
+76,Sulawesi Barat,2023,Mei,857,Kementerian Agama RI
+76,Sulawesi Barat,2023,Juni,308,Kementerian Agama RI
+76,Sulawesi Barat,2023,Juli,877,Kementerian Agama RI
+76,Sulawesi Barat,2023,Agustus,527,Kementerian Agama RI
+76,Sulawesi Barat,2023,September,547,Kementerian Agama RI
+76,Sulawesi Barat,2023,Oktober,603,Kementerian Agama RI
+76,Sulawesi Barat,2023,November,561,Kementerian Agama RI
+76,Sulawesi Barat,2023,Desember,470,Kementerian Agama RI
+81,Maluku,2023,Januari,437,Kementerian Agama RI
+81,Maluku,2023,Februari,423,Kementerian Agama RI
+81,Maluku,2023,Maret,358,Kementerian Agama RI
+81,Maluku,2023,April,149,Kementerian Agama RI
+81,Maluku,2023,Mei,574,Kementerian Agama RI
+81,Maluku,2023,Juni,337,Kementerian Agama RI
+81,Maluku,2023,Juli,494,Kementerian Agama RI
+81,Maluku,2023,Agustus,345,Kementerian Agama RI
+81,Maluku,2023,September,453,Kementerian Agama RI
+81,Maluku,2023,Oktober,489,Kementerian Agama RI
+81,Maluku,2023,November,505,Kementerian Agama RI
+81,Maluku,2023,Desember,479,Kementerian Agama RI
+82,Maluku Utara,2023,Januari,437,Kementerian Agama RI
+82,Maluku Utara,2023,Februari,455,Kementerian Agama RI
+82,Maluku Utara,2023,Maret,443,Kementerian Agama RI
+82,Maluku Utara,2023,April,109,Kementerian Agama RI
+82,Maluku Utara,2023,Mei,585,Kementerian Agama RI
+82,Maluku Utara,2023,Juni,362,Kementerian Agama RI
+82,Maluku Utara,2023,Juli,557,Kementerian Agama RI
+82,Maluku Utara,2023,Agustus,428,Kementerian Agama RI
+82,Maluku Utara,2023,September,453,Kementerian Agama RI
+82,Maluku Utara,2023,Oktober,524,Kementerian Agama RI
+82,Maluku Utara,2023,November,493,Kementerian Agama RI
+82,Maluku Utara,2023,Desember,425,Kementerian Agama RI
+91,Papua,2023,Januari,309,Kementerian Agama RI
+91,Papua,2023,Februari,399,Kementerian Agama RI
+91,Papua,2023,Maret,358,Kementerian Agama RI
+91,Papua,2023,April,76,Kementerian Agama RI
+91,Papua,2023,Mei,332,Kementerian Agama RI
+91,Papua,2023,Juni,217,Kementerian Agama RI
+91,Papua,2023,Juli,425,Kementerian Agama RI
+91,Papua,2023,Agustus,209,Kementerian Agama RI
+91,Papua,2023,September,288,Kementerian Agama RI
+91,Papua,2023,Oktober,287,Kementerian Agama RI
+91,Papua,2023,November,376,Kementerian Agama RI
+91,Papua,2023,Desember,243,Kementerian Agama RI
+92,Papua Barat,2023,Januari,201,Kementerian Agama RI
+92,Papua Barat,2023,Februari,189,Kementerian Agama RI
+92,Papua Barat,2023,Maret,268,Kementerian Agama RI
+92,Papua Barat,2023,April,66,Kementerian Agama RI
+92,Papua Barat,2023,Mei,229,Kementerian Agama RI
+92,Papua Barat,2023,Juni,166,Kementerian Agama RI
+92,Papua Barat,2023,Juli,228,Kementerian Agama RI
+92,Papua Barat,2023,Agustus,156,Kementerian Agama RI
+92,Papua Barat,2023,September,169,Kementerian Agama RI
+92,Papua Barat,2023,Oktober,187,Kementerian Agama RI
+92,Papua Barat,2023,November,219,Kementerian Agama RI
+92,Papua Barat,2023,Desember,217,Kementerian Agama RI
